@@ -21,7 +21,3 @@ It supports basic arithmetic operations along with percentage, sign change, and 
 - **Java** (JDK 8+)
 - **Java Swing** for GUI
 - **AWT** for layout and colors
-
----
-
-## 📂 Project Structure
